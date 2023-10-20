@@ -202,11 +202,11 @@ if __name__ == "__main__":
     timestr = time.strftime("%Y%m%d%H%M%S")
     base_directory = os.path.join(os.getcwd(), "scrapperoutput", timestr)
 
-    adls_connection_string = "DefaultEndpointsProtocol=https;AccountName=webscrapinginvesco;AccountKey=uMTMEbOPyEPG5uVVcoAzX93x+RqezNQhFVjN7lwDncKYhlecahv4ynEaHBRXg+G6C49GjjHHx9pK+AStBnzviw==;EndpointSuffix=core.windows.net"
+    adls_connection_string = "DefaultEndpointsProtocol=https;AccountName=webscrapinginvesco0;AccountKey=8/jjkAZUFstIktZ+dHd2Mj2IAo2BRnaFh0kxXoh9pHYZAh1XmwqQn1+vDipHX6vK6wgXj7CNxzXT+AStRIVekw==;EndpointSuffix=core.windows.net"
 
     container_name = "raw"
-    FR_endpoint = "https://webscrapingformrecognizer.cognitiveservices.azure.com/"  # https://invescopoc.cognitiveservices.azure.com/"
-    FR_key = "6b9b4390701d47d3adb6a37268b7387d"  # ee4f9868709941888f3fedf57878a1cd"
+    FR_endpoint = "https://webscrapinginvesco.cognitiveservices.azure.com/"  # https://invescopoc.cognitiveservices.azure.com/"
+    FR_key = "1306f4e4c8b443b791f79a4ce450239d"  # ee4f9868709941888f3fedf57878a1cd"
     BROWSER = asyncio.get_event_loop().run_until_complete(launch())
 
     # TODO : fetch file from DB or azure or cloud

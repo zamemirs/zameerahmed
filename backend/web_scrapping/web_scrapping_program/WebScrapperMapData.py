@@ -769,7 +769,7 @@ if __name__ == "__main__":
       timestr=input_data
 
    base_directory = os.path.join(os.getcwd(), "mappedoutput")
-   adls_connection_string ="DefaultEndpointsProtocol=https;AccountName=webscrapinginvesco;AccountKey=uMTMEbOPyEPG5uVVcoAzX93x+RqezNQhFVjN7lwDncKYhlecahv4ynEaHBRXg+G6C49GjjHHx9pK+AStBnzviw==;EndpointSuffix=core.windows.net"
+   adls_connection_string ="DefaultEndpointsProtocol=https;AccountName=webscrapinginvesco0;AccountKey=8/jjkAZUFstIktZ+dHd2Mj2IAo2BRnaFh0kxXoh9pHYZAh1XmwqQn1+vDipHX6vK6wgXj7CNxzXT+AStRIVekw==;EndpointSuffix=core.windows.net"
    container_name ="raw"
 
    blob_service = BlobServiceClient.from_connection_string(conn_str=adls_connection_string)
