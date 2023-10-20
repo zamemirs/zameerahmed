@@ -1,0 +1,182 @@
+{
+  "urlList": [
+    {
+      "id": 1,
+      "raw_filename": "pramod",
+      "url": "https://doubleline.com/documents/fund-documents/?page=1&sort=DESC&ppp=15&ct=dividends-and-capital-gains",
+      "type": "links",
+      "folder_name": "doubleline"
+    },
+    {
+      "id": 2,
+      "raw_filename": "davisfunds_url1",
+      "url": "https://davisfunds.com/funds/prices/#international_fund",
+      "type": "html",
+      "folder_name": "davisfunds"
+    },
+    {
+      "id": 3,
+      "raw_filename": "davisfunds_url2",
+      "url": "https://davisfunds.com/funds/distributions",
+      "type": "html",
+      "folder_name": "davisfunds"
+    },
+    {
+      "id": 4,
+      "raw_filename": "ishares_url1",
+      "url": "https://www.ishares.com/us/capital-gains-distributions",
+      "type": "html",
+      "folder_name": "ishares"
+    },
+    {
+      "id": 6,
+      "raw_filename": "parnassus_url77",
+      "url": "https://www.parnassus.com/parnassus-mutual-funds/distributions",
+      "type": "html",
+      "folder_name": "parnassus"
+    },
+    {
+      "id": 7,
+      "raw_filename": "parnassus_url2",
+      "url": "https://assets-us-01.kc-usercontent.com/094ee837-48bb-001c-6959-053670061ebf/5eac8235-5f85-448c-b28a-1e8cf0b806a3/Parnassus%20Funds%20Prospectus%20May%201%2C%202023.pdf",
+      "type": "pdf",
+      "folder_name": "parnassus"
+    },
+    {
+      "id": 8,
+      "raw_filename": "hartfordfunds_url1",
+      "url": "https://www.hartfordfunds.com/dam/en/docs/pub/funddocuments/regulatorydocument/Tax%20Center/capgainsdistributions/2022HartfordFundsOctoberCapitalGainsEstimate.pdf",
+      "type": "pdf",
+      "folder_name": "hartfordfunds"
+    },
+    {
+      "id": 9,
+      "raw_filename": "hartfordfunds_url2",
+      "url": "https://www.hartfordfunds.com/dam/en/docs/pub/funddocuments/regulatorydocument/Tax%20Center/capgainsdistributions/2022HLSDecemberDistributions.pdf",
+      "type": "pdf",
+      "folder_name": "hartfordfunds"
+    },
+    {
+      "id": 11,
+      "raw_filename": "lordabbett_url1",
+      "url": "https://www.lordabbett.com/en/strategies/tax-center/capital-gain-distributions.class-u.html?fundType=MUTUAL_FUND",
+      "type": "subpages",
+      "folder_name": "lordabbett"
+    },
+    {
+      "id": 12,
+      "raw_filename": "fidelity_url1",
+      "url": "https://institutional.fidelity.com/app/tabbed/products/FIIS_SP10_DPL2_DSC1.html?navId=320&shareClassId=1SC3SC10SC9SC50805SC50405SC50605SC&pos=L&redirectToPersisted=F",
+      "type": "html",
+      "folder_name": "fidelity"
+    },
+    {
+      "id": 14,
+      "raw_filename": "bridgebuilder_url2",
+      "url": "https://www.bridgebuildermutualfunds.com/wp-content/uploads/pdfs/current/Bridge_Builder_Capital_Gains_2022.pdf",
+      "type": "pdf",
+      "folder_name": "bridgebuilders"
+    },
+    {
+      "id": 15,
+      "raw_filename": "janushenderson_url1",
+      "url": "https://2deaa804a6dc693855a0-eba658c6bc03668a61900f643427d64d.ssl.cf1.rackcdn.com/Documents/product/distribution-tax/Janus%20Henderson%20Final%20Distributions%2012.30.22.pdf",
+      "type": "pdf",
+      "folder_name": "janushenderson"
+    },
+    {
+      "id": 16,
+      "raw_filename": "janushenderson_url2",
+      "url": "https://2deaa804a6dc693855a0-eba658c6bc03668a61900f643427d64d.ssl.cf1.rackcdn.com/Documents/product/distribution-tax/Janus%20Henderson%20Global%20Allocation%20Funds%20Final%20Distributions%202022.pdf",
+      "type": "pdf",
+      "folder_name": "janushenderson"
+    },
+    {
+      "id": 17,
+      "raw_filename": "janushenderson_url3",
+      "url": "https://2deaa804a6dc693855a0-eba658c6bc03668a61900f643427d64d.ssl.cf1.rackcdn.com/Documents/product/distribution-tax/Janus%20Henderson%20Funds%20Final%20Distribution%2012.20.22.pdf",
+      "type": "html",
+      "folder_name": "janushenderson"
+    },
+    {
+      "id": 18,
+      "raw_filename": "janushenderson_url4",
+      "url": "https://2deaa804a6dc693855a0-eba658c6bc03668a61900f643427d64d.ssl.cf1.rackcdn.com/Documents/product/distribution-tax/Janus%20Henderson%20Funds%20Final%20Distribution%2012.22.22%20-%20Updated%201.10.23.pdf",
+      "type": "pdf",
+      "folder_name": "janushenderson"
+    },
+    {
+      "id": 19,
+      "raw_filename": "capitalgroup_url1",
+      "url": "https://www.capitalgroup.com/advisor/tax/2022-year-end-distributions.html",
+      "type": "html",
+      "folder_name": "capitalgroup"
+    },
+    {
+      "id": 20,
+      "raw_filename": "capitalgroup_url2",
+      "url": "https://www.capitalgroup.com/advisor/investments/americanfunds?symbolsview=on&shareclass=A&pricing=NAV",
+      "type": "html",
+      "folder_name": "capitalgroup"
+    },
+    {
+      "raw_filename": "pramod",
+      "url": "vsdav",
+      "type": "html",
+      "folder_name": "vSAD",
+      "id": 21
+    },
+    {
+      "raw_filename": "pramod",
+      "url": "https://doubleline.com/documents/fund-documents/?page=1&sort=DESC&ppp=15&ct=dividends-and-capital-gains",
+      "type": "html",
+      "folder_name": "doubleline",
+      "id": 22
+    },
+    {
+      "raw_filename": "parnassus_url77",
+      "url": "https://davisfunds.com/funds/distributions",
+      "type": "html",
+      "folder_name": "vSAD",
+      "id": 23
+    }
+  ],
+  "lookUpTable": [
+    {
+      "id": 1,
+      "keyword": "Provider",
+      "value": "Provider,Provider Name, "
+    },
+    {
+      "id": 2,
+      "keyword": "Provider",
+      "value": "Provider,Provider Name,"
+    },
+    {
+      "id": 3,
+      "keyword": "Provider",
+      "value": [
+        "Provider",
+        "Provider Name"
+      ]
+    },
+    {
+      "id": 4,
+      "keyword": "Provider",
+      "value": [
+        "Provider",
+        "Provider Name"
+      ]
+    },
+    {
+      "id": 5,
+      "keyword": "Provider",
+      "value": "Provider ,Provider Name"
+    },
+    {
+      "keyword": "fraf",
+      "value": "zdgsdg",
+      "id": 6
+    }
+  ]
+}

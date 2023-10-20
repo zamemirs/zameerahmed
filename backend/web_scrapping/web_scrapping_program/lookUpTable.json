@@ -1,0 +1,169 @@
+{
+    
+    "FundId": [
+    ],
+
+    "Provider": [
+        "Provider",
+        "Provider Name"
+    ],
+
+    "Estimate/ShareClass": [
+        "Share Class", 
+        "Class"
+    ],
+    
+    "Ticker": [
+        "Fund Ticker", 
+        "Ticker",
+        "Symbol"
+    ],
+    
+    "FundName":[
+        "Fund Name",
+        "Name",
+        "Fund",
+        "Lyrical Funds",
+        "Putnam fund name"
+    ],
+     
+    "Date":[
+        "Date"
+    ],
+    
+    "Record Date":[
+        "Record Date",
+        "Record Date:"
+    ],
+    
+    "Ex Date":[
+        "Ex Date",
+        "Ex-Date",
+        "EX-DIVIDEND DATE",
+        "Ex-Date:",
+        "Ex, Reinvest and Payable Date",
+        "Ex/Payable Date",
+        "Ex-div date"
+    ],
+
+    "CapGainDeclarationDate":[
+    ],
+    
+    "Pay Date":[
+        "Pay Date",
+        "Payable Date",
+        "Distribution Date:",
+        "Payment date",
+        "Ex, Reinvest and Payable Date",
+        "Ex/Payable Date",
+        "Payable Date4"
+    ],
+
+    "EstimateURL":[ 
+        "EstimateURL",      
+        "EstimateURL1" 
+    ],
+    
+    "TotalCapGains":[
+        "Estimated Total Year-End Distribution Range",
+        "Capital Gain Distributions"
+    ],
+     
+    "TotalCapGainsPercent":[
+        "Estimated Total Capital Gain % of NAV (10/31/2022)",
+        "Total Capital Gains Percentage of NAV",
+        "Total Capital Gains (% of I Share NAV) 2"
+    ],
+     
+    "TotalCapGainsTop":[
+    ],
+     
+    "TotalCapGainsLow":[
+    ],
+     
+    "TotalCapGainsPercentTop":[
+    ],
+     
+    "TotalCapGainsPercentLow":[
+    ],
+    
+    "ShortTerm":[
+        "Short-term Capital Gain",
+        "Estimated Short-Term Capital Gain Distribution Range(1)",
+        "Short Term Gain Distribution ($/share)",
+        "Short-term Capital Gains ($) Per Share",
+        "*Short-term gains",
+        "Short term Cap $",
+        "Short Term",
+        "Short-Term ($)",
+        "Short-term cap gain",
+        "Short Term Capital Gains Per Share",
+        "Short Term Per Share",
+        "Short-Term Capital Gains Distributions ($)",
+        "Short-Term Capital Gains Distributions ($/Share)1"
+    ],
+     
+    "LongTerm":[
+        "Long-term Capital Gain",
+        "Estimated Long-Term Capital Gain Distribution Range",
+        "Long Term Gain Distribution ($/share)",
+        "Long-term Capital Gains ($) Per Share",
+        "*Long-term gains",
+        "Long term Cap $",
+        "Long Term",
+        "Long-Term ($)",
+        "Dividend Rate",
+        "Long-term cap gain",
+        "Long Term Capital Gains Per Share",
+        "Long-Term Capital Gains Distributions ($)",
+        "Long-Term Capital Gains Distributions ($/Share) 1"
+    ],
+     
+    "ShortTermPercent":[
+        "Short Term.1",
+        "Estimated Short Term Capital Gains Range",
+        "Short Term Capital Gains Percentage of NAV",
+        "Short Term Percentage of NAV",
+        "Short-Term Capital Gains (% of I Share NAV)2"
+    ],
+     
+    "LongTermPercent":[
+        "Long Term.1",
+        "Estimated Long Term Capital Gains Range",
+        "Long Term Capital Gains Percentage of NAV",
+        "Long Term Capital Gains (% of I Share NAV) 2"
+    ],
+     
+    "ShortTermTop":[
+    ],
+     
+    "ShortTermLow":[
+    ],
+     
+    "LongTermTop":[
+    ],
+     
+    "LongTermLow":[
+    ],
+     
+    "ShortTermPercentTop":[
+    ],
+     
+    "ShortTermPercentLow":[
+    ],
+     
+    "LongTermPercentTop":[
+    ],
+     
+    "LongTermPercentLow":[
+    ],
+     
+    "Notes":[
+    ],
+     
+    "NAV":[
+    ],
+     
+    "AddedDate":[
+    ]
+}
